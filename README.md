@@ -9,3 +9,6 @@ Please make sure to update tests as appropriate.
 
 ## Usage
 Clone this repository. Start using it.
+
+## Instalation
+
